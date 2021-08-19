@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hsuan.ach08_03131592_2.MainActivity">
+    <item
+        android:id="@+id/MeanuAbout"
+        android:orderInCategory="100"
+        android:title="關於"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/MeanuLOut"
+        android:orderInCategory="100"
+        android:title="離開"
+        app:showAsAction="never" />
+</menu>
